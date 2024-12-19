@@ -1,0 +1,42 @@
+1. Người dùng khách (Guest User)
+•Mô tả: Người dùng không đăng nhập vào hệ thống.
+•Mục tiêu: Xem sản phẩm trên trang web.
+•Hành động: 
+-Truy cập trang web.
+-Xem danh sách các sản phẩm.
+-Tìm kiếm và lọc sản phẩm theo danh mục, màu sắc, kích cỡ hoặc giá cả.
+2. Người dùng thường (Regular User)
+•Mô tả: Người dùng đã tạo tài khoản và đăng nhập.
+•Mục tiêu: Mua sắm và quản lý thông tin cá nhân.
+•Hành động: 
+-Đăng nhập vào hệ thống.
+-Thêm sản phẩm vào giỏ hàng.
+-Xem và chỉnh sửa giỏ hàng.
+-Thanh toán và nhận xác nhận đơn hàng.
+-Xem lịch sử mua hàng.
+-Cập nhật thông tin cá nhân như địa chỉ giao hàng, số điện thoại.
+3. Quản trị viên (Admin)
+•Mô tả: Người quản lý toàn bộ hệ thống.
+•Mục tiêu: Quản lý sản phẩm, người dùng và đơn hàng.
+•Hành động: 
+-Đăng nhập vào trang quản trị.
+-Thêm, sửa, xóa sản phẩm.
+-Duyệt đơn hàng, cập nhật trạng thái đơn hàng.
+-Quản lý danh sách người dùng (thêm quyền, khóa tài khoản).
+-Xem báo cáo doanh thu và hoạt động của trang web.
+4. Nhân viên quản lý đơn hàng (Order Manager)
+•Mô tả: Nhân viên được phân quyền chỉ để xử lý đơn hàng.
+•Mục tiêu: Duyệt và xử lý đơn hàng.
+•Hành động: 
+-Đăng nhập vào hệ thống.
+-Xem danh sách đơn hàng.
+-Cập nhật trạng thái đơn hàng (đã đóng gói, đang giao hàng, đã hoàn thành).
+5. Người quản lý nội dung (Content Manager)
+•Mô tả: Nhân viên chịu trách nhiệm quản lý thông tin sản phẩm và nội dung trên trang web.
+•Mục tiêu: Đảm bảo thông tin sản phẩm đầy đủ và chính xác.
+•Hành động: 
+-Đăng nhập vào hệ thống.
+-Thêm, sửa, hoặc xóa thông tin sản phẩm.
+-Quản lý hình ảnh, mô tả sản phẩm.
+-Cập nhật danh mục sản phẩm.
+
